@@ -72,7 +72,7 @@ $(function() {
         slidesToShow: 1,
         pauseOnHover: true,//滑鼠移過後暫停自動撥放
         arrows: true,
-        // autoplay: true,
+        autoplay: true,
     });
     // 
     $('.customer_case_slider').slick({

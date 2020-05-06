@@ -243,9 +243,9 @@ position: relative }
 #solution_block{
 position: relative;
 background-image: url('../img/bg02.png');background-position: center top; background-repeat: no-repeat;
-	margin-top: -150px;position: relative;z-index: 9;
+	margin-top: -130px;position: relative;z-index: 9;
 }
-.solution_block{padding:300px 0 0 0;position: relative;}
+.solution_block{padding:250px 0 0 0;position: relative;}
 #solution_block h2{text-align: left;}
 #solution_block .section-title{display: block}
 #solution_block p{text-align: left; margin-bottom: 60px}
@@ -302,7 +302,7 @@ background-image: url('../img/bg02.png');background-position: center top; backgr
 
 /* 客戶案例圈圈 customer_case
 ================================================ */
-#customer_case{ padding: 100px 0 0 0; }
+#customer_case{ padding: 120px 0 0 0; }
 
 #customer_case h2{ position: relative ;}
 #customer_case h2:before{content: '';background-image: url('../img/circle_bg02.png');background-repeat: no-repeat;background-position: 0 0;width:210px;height:194px;position: absolute;left:50%;top:-70px;margin-left: -190px;z-index: 0}
