@@ -29,7 +29,7 @@ a:hover { -webkit-transition: background-color .3s ease; -moz-transition: backgr
 
 .navbar-default { background: transparent; border-color: transparent; padding: 10px 0; -moz-box-shadow: 0 0 7px rgba(0, 0, 0, 0.1);  }
 /* .navbar-default .container{padding: 0 30px;} */
-.navbar-brand { padding: 0px 15px; width: 400px;}
+.navbar-brand { padding: 0px 15px; width: 350px;}
 .navbar-default .navbar-nav{margin-top:10px;}
 .navbar-default .navbar-nav>li>a { color: #fff; font-family: 'Open Sans', sans-serif; text-decoration:none; font-size: 1.25em; padding:10px 23px; text-shadow: 0 0 2px #2aa093}
 .navbar-default .navbar-nav>li>a:hover { color: #fff45c; }
