@@ -479,7 +479,7 @@ footer .title{color:#4828b0;font-size: 1.5em;margin:0 0 15px;}
 footer a{ color:#333}
 footer a:hover{ color:#C00}
 footer ul{margin:0;padding:0;}
-footer ul li{list-style-type: none;margin-bottom: 15px}
+footer ul li{list-style-type: none;margin-bottom: 15px; display: inline-block; margin:0 10px 15px;}
 footer ul li img{vertical-align: middle; margin:0 5px;}
 footer .declare{text-align: center; padding-top: 20px}
 
